@@ -1,4 +1,4 @@
-# Minimal ![Build Status](https://travis-ci.org/daniel/Minimal-Todo.svg?branch=master)
+# To Do List ![Build Status]
 
 <img src="/screenshots/app_icon.png" height="200px"/> <br>
 A fully Material ToDo app with minimal features, just enough to be useful.
